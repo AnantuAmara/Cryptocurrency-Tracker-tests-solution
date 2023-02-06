@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.container-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2px;
+}
+
+.containers-2 {
+  display: flex;
+  align-items: center;
+}
+
+.container-3 {
+  display: flex;
+}
+
+.images {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+}
+
+.paragraph-1 {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: 'Roboto';
+  padding: 5px;
+}
+
+.paragraph {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: 'Roboto';
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 1px;
+}

@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.container {
+  background-color: #000000;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: 130vh;
+}
